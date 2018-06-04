@@ -1,0 +1,2 @@
+more text file to test functionality of git branches
+
