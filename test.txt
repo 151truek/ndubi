@@ -1,1 +1,5 @@
 Testing branches with git
+#changing path directory length in linux
+#at the end of the .bashrc script line add
+PROMPT_DIRTRIM=2
+
